@@ -8,6 +8,7 @@ CHANNEL_ID=お問い合わせ案内チャンネルのID　//↑のメッセー�
 CATEGORY_ID=お問い合わせ用カテゴリのID　//プラベチャンネルが作成されるカテゴリーです  
 EMOJI=💬　//反応する絵文字です  
 
+
 # 許可する権限
 ## Privileged Gateway Intents 
 ✅ MESSAGE CONTENT INTENT  
