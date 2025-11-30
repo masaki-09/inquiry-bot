@@ -20,3 +20,5 @@ EMOJI=💬　//反応する絵文字です
 ✅ Send Messages  
 ✅ Read Message History  
 ✅ Add Reactions  
+
+©masaki
